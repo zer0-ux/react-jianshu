@@ -1,0 +1,1 @@
+export const CHANGEDATA = 'home/changedata';
